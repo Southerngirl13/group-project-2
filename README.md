@@ -1,5 +1,5 @@
 # YouPhonic
-<h1 align="center">YouPhonic</h1>
+
 <h1 align="center">
   <br>
   <img src="https://github.com/Southerngirl13/group-project-2/blob/master/assets/images/project.gif">
